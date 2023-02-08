@@ -1,7 +1,7 @@
 # Books-Crossing-Dataset---Data-Cleaning-and-EDA
 
 ## Data:
-The Book-Crossing Dataset collected by Cai-Nicolas Zeigler includes 3 files containing users information, books information and book-ratings.
+The Book-Crossing Dataset collected by Cai-Nicolas Zeigler includes 3 files containing users information (278,859 records), books information (271,379 records) and book-ratings (1,048,575 records).
 
 Original datasets can be downloaded [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).
 
