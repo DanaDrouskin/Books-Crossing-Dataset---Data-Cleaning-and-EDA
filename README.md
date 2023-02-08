@@ -3,6 +3,8 @@
 ## Data:
 The Book-Crossing Dataset collected by Cai-Nicolas Zeigler includes 3 files containing users information, books information and book-ratings.
 
+Original datasets can be downloaded [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).
+
 ## Objectives:
 * Analyze the demographics of users – age and location
 * Analyze Books/Authors/Publishers popularity
