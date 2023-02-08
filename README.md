@@ -14,3 +14,5 @@ Original datasets can be downloaded [here](http://www2.informatik.uni-freiburg.d
 1. Data cleaning - Spark environment in Google Colab, libraries: pyCountry, isbnlib, python-Levenshtein
 2. Data visualization - Tableau
 3. Insights
+
+[Book-Crossing-Presentation.pdf](https://github.com/DanaDrouskin/Books-Crossing-Dataset---Data-Cleaning-and-EDA/files/10684772/Book-Crossing-Presentation.pdf)
